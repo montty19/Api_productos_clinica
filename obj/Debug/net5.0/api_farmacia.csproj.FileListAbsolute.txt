@@ -1,0 +1,95 @@
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/appsettings.json
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/api_farmacia.exe
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/api_farmacia.deps.json
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/api_farmacia.runtimeconfig.json
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/api_farmacia.runtimeconfig.dev.json
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/api_farmacia.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/ref/api_farmacia.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/api_farmacia.pdb
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/obj/Debug/net5.0/api_farmacia.csproj.AssemblyReference.cache
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/obj/Debug/net5.0/api_farmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/obj/Debug/net5.0/api_farmacia.AssemblyInfoInputs.cache
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/obj/Debug/net5.0/api_farmacia.AssemblyInfo.cs
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/obj/Debug/net5.0/api_farmacia.csproj.CoreCompileInputs.cache
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/obj/Debug/net5.0/api_farmacia.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/obj/Debug/net5.0/api_farmacia.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/obj/Debug/net5.0/staticwebassets/api_farmacia.StaticWebAssets.Manifest.cache
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/obj/Debug/net5.0/staticwebassets/api_farmacia.StaticWebAssets.xml
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/obj/Debug/net5.0/scopedcss/bundle/api_farmacia.styles.css
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/obj/Debug/net5.0/api_farmacia.RazorTargetAssemblyInfo.cache
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/obj/Debug/net5.0/api_farmacia.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/obj/Debug/net5.0/ref/api_farmacia.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/obj/Debug/net5.0/api_farmacia.pdb
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/obj/Debug/net5.0/api_farmacia.genruntimeconfig.cache
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/Google.Protobuf.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/Microsoft.Bcl.HashCode.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/MySql.Data.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/Zstandard.Net.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/MySql.Data.EntityFrameworkCore.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/Renci.SshNet.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/SshNet.Security.Cryptography.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/System.Xml.XPath.XmlDocument.dll
+C:/Users/Victor Montalvo/Desktop/parte_clinica/api/api_farmacia/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/appsettings.Development.json
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/appsettings.json
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/api_farmacia.deps.json
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/api_farmacia.runtimeconfig.json
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/api_farmacia.runtimeconfig.dev.json
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/api_farmacia.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/ref/api_farmacia.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/api_farmacia.pdb
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/Google.Protobuf.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/Microsoft.Bcl.HashCode.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/MySql.Data.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/Zstandard.Net.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/MySql.Data.EntityFrameworkCore.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/Renci.SshNet.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/SshNet.Security.Cryptography.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/System.Xml.XPath.XmlDocument.dll
+/Users/montty19/Downloads/api/api_farmacia/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/montty19/Downloads/api/api_farmacia/obj/Debug/net5.0/api_farmacia.csproj.AssemblyReference.cache
+/Users/montty19/Downloads/api/api_farmacia/obj/Debug/net5.0/api_farmacia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/montty19/Downloads/api/api_farmacia/obj/Debug/net5.0/api_farmacia.AssemblyInfoInputs.cache
+/Users/montty19/Downloads/api/api_farmacia/obj/Debug/net5.0/api_farmacia.AssemblyInfo.cs
+/Users/montty19/Downloads/api/api_farmacia/obj/Debug/net5.0/api_farmacia.csproj.CoreCompileInputs.cache
+/Users/montty19/Downloads/api/api_farmacia/obj/Debug/net5.0/api_farmacia.MvcApplicationPartsAssemblyInfo.cs
+/Users/montty19/Downloads/api/api_farmacia/obj/Debug/net5.0/api_farmacia.MvcApplicationPartsAssemblyInfo.cache
+/Users/montty19/Downloads/api/api_farmacia/obj/Debug/net5.0/staticwebassets/api_farmacia.StaticWebAssets.Manifest.cache
+/Users/montty19/Downloads/api/api_farmacia/obj/Debug/net5.0/staticwebassets/api_farmacia.StaticWebAssets.xml
+/Users/montty19/Downloads/api/api_farmacia/obj/Debug/net5.0/scopedcss/bundle/api_farmacia.styles.css
+/Users/montty19/Downloads/api/api_farmacia/obj/Debug/net5.0/api_farmacia.RazorTargetAssemblyInfo.cache
+/Users/montty19/Downloads/api/api_farmacia/obj/Debug/net5.0/api_farmacia.dll
+/Users/montty19/Downloads/api/api_farmacia/obj/Debug/net5.0/ref/api_farmacia.dll
+/Users/montty19/Downloads/api/api_farmacia/obj/Debug/net5.0/api_farmacia.pdb
+/Users/montty19/Downloads/api/api_farmacia/obj/Debug/net5.0/api_farmacia.genruntimeconfig.cache
